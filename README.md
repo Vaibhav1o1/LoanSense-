@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Best Model](https://img.shields.io/badge/Best%20Model-Naive%20Bayes-green)
-![Accuracy](https://img.shields.io/badge/Accuracy-82%25-brightgreen)
+![Accuracy](https://img.shields.io/badge/Accuracy-86.5%25-brightgreen)
 ![Precision](https://img.shields.io/badge/Precision-80.35%25-brightgreen)
 ![Dataset](https://img.shields.io/badge/Dataset-1000%20Records-orange)
 ![Models Tested](https://img.shields.io/badge/Models%20Tested-3-purple)
