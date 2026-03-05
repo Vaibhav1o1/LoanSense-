@@ -110,7 +110,7 @@ Best Model: Naive Bayes ✅
 | Metric | Score |
 |--------|-------|
 | **Precision** | **80.35%** |
-| **Accuracy** | **82%** |
+| **Accuracy** | **86.5%** |
 | Train/Test Split | 80% / 20% |
 | Test Set Size | 200 records |
 
